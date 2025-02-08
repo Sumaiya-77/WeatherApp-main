@@ -1,0 +1,17 @@
+
+.InfoBox {
+ margin-bottom: 20px;
+ border-radius: 30px;
+ padding: 5px;
+}
+.cardContainer {
+    display: flex;
+    justify-content: center;  
+}
+
+
+.cardContainer p{
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    margin-top: 14px;
+}

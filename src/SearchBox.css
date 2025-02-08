@@ -1,0 +1,9 @@
+.SearchBox {
+    text-align: center;
+}
+.SearchBox button{
+    margin-left: 30px;
+    height: 53px;
+    width: 100px;
+    margin-bottom: 30px;
+}
